@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Eleven",
+      "image":
+        "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Eleven_%28Stranger_Things%29.jpg/220px-Eleven_%28Stranger_Things%29.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Chief Hopper",
+      "image":
+        "https://vignette.wikia.nocookie.net/stranger-things/images/b/bb/-Jim-Hopper-Stranger-Things.jpg/revision/latest?cb=20171111164613&path-prefix=de",
+        "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Dr. Martin Brenner",
+      "image":
+        "http://www.konbini.com/en/files/2017/02/drbrenner.jpg",
+        "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Demogorgon",
+      "image":
+        "https://res.cloudinary.com/jpress/image/fetch/c_fill,f_auto,h_640,q_auto:eco,w_959/https://inews.co.uk/wp-content/uploads/2017/11/asc-demogorgon-hero.jpg.png",
+        "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Joyce Byers",
+      "image":
+        "https://m.media-amazon.com/images/M/MV5BOTMzOTY4MzU0MF5BMl5BanBnXkFtZTgwMTg4MDg4OTE@._V1_.jpg",
+        "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "Mike Wheeler",
+      "image":
+        "https://m.media-amazon.com/images/M/MV5BNzY0MDk4NDk0OV5BMl5BanBnXkFtZTgwNDU4MzcyNDM@._V1_SX1777_CR0,0,1777,826_AL_.jpg",
+        "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Steve Harrington",
+      "image":
+        "https://m.media-amazon.com/images/M/MV5BMTk0MzcwMDQxM15BMl5BanBnXkFtZTgwODc3MzcyNDM@._V1_SX1777_CR0,0,1777,826_AL_.jpg",
+        "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "Bob Newby",
+      "image":
+        "https://m.media-amazon.com/images/M/MV5BNTA4OWVlMWQtOGJkOS00MjU2LThiNTktN2RmMGRjZTQxMDk1XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_SX1777_CR0,0,1777,885_AL_.jpg",
+        "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "Will Byers",
+      "image":
+        "https://m.media-amazon.com/images/M/MV5BMjA1NDQ2MjM5MV5BMl5BanBnXkFtZTgwMjg4MzcyNDM@._V1_SX1777_CR0,0,1777,826_AL_.jpg",
+        "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "Terry Ives",
+      "image":
+        "https://m.media-amazon.com/images/M/MV5BMWU1OTc1ZTktMmM1MS00YjU5LWE3MjQtZDkzNjgwNGI0ZTVlXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_SX1777_CR0,0,1777,890_AL_.jpg",
+        "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "Kali",
+      "image":
+        "https://m.media-amazon.com/images/M/MV5BMTYwOTAzNTEwOV5BMl5BanBnXkFtZTgwNTg0NDcxNDM@._V1_SX1777_CR0,0,1777,826_AL_.jpg",
+        "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Nancy Wheeler",
+      "image":
+        "https://m.media-amazon.com/images/M/MV5BMTU1Mjk0MTMyMV5BMl5BanBnXkFtZTgwMzk4MzcyNDM@._V1_SX1777_CR0,0,1777,826_AL_.jpg",
+        "clicked": false
+    }
+]
+  
